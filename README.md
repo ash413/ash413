@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <!--👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently and made a name for myself.-->
 
-🎹 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **keyboard** to **painting**.
+👨‍💻 I am really enthusiastic about learning new technology. In 2024, I learned **Expressjs**, **MongoDB**, **APIs** and **Postgres**.
 
 <!-- 📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **Atomic Habits** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy. -->
 
-🏸 I love **sports** too. I have played **badminton** as well as **cricket** professionally. I also love many other sports like tennis, ice hockey, and swimming.
+🏸 I also love **sports**, mostly love playing **badminton** and **cricket** .
 
 ## 🛠️ Technical Skills
 
@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 
 ## 🔗 Links
 
-<!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/) 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e) -->
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://vaishnavikadam-portfolio-vaishnavi-kadams-projects.vercel.app/) 
+<!-- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e) -->
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vaishnavikadam4/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ash413)
