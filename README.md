@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🎓 I am Vaishnavi Kadam, a **Front End Web Developer** (specializing in **React Applications**). I am pursuing my Bachelor in **Computer Science & Technology** and will graduate in 2024.
+🎓 I am Vaishnavi Kadam, a **Front End Web Developer** and a **Machine Learning Enthusiast**. I am currently a graduate student at Syracuse University pursuing Computer Science! I did my Bachelors in **Computer Science & Technology**,graduating in 2024.
 
 <!--👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently and made a name for myself.-->
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2024, I learned **Expressjs**, **MongoDB**, **APIs** and **Postgres**.
+👨‍💻 I am really enthusiastic about learning new technology. In 2024, I learnt **Expressjs** and **JWT**.
 
 <!-- 📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **Atomic Habits** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy. -->
 
-🏸 I also love **sports**, mostly love playing **badminton** and **cricket** .
+<!--🏸 I also love **sports**, mostly love playing **badminton** and **cricket** .-->
 
 ## 🛠️ Tools
  <h3>👨‍💻 Programming and Markup Languages</h3>
