@@ -83,6 +83,6 @@ Here are some ideas to get you started:
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://portfolio.vaishnavikadam.tech/) 
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://portfolio-tau-one-87.vercel.app/) 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vaishnavikadam4/)
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vkadam01@syr.edu)
