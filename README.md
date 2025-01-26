@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 <!-- ## 🚀 About Me -->
 
@@ -29,51 +29,72 @@ Here are some ideas to get you started:
 
 <!--🏸 I also love **sports**, mostly love playing **badminton** and **cricket** .-->
 
-Welcome to my GitHub! I'm Vaishnavi Kadam, a passionate and dedicated Computer Science master's student at Syracuse University. My portfolio showcases a variety of projects that reflect my journey in full-stack web development, machine learning, and software engineering.
+Welcome to my GitHub! I'm Vaishnavi Kadam, a Computer Science master's student at Syracuse University. My portfolio showcases a variety of projects that reflect my journey in full-stack web development, machine learning, and software engineering.
 
-I'm constantly exploring new technologies and improving my existing projects. Currently, I'm focusing on refining my machine learning skills and expanding my portfolio with innovative full-stack applications.
+I'm constantly exploring new technologies and improving my existing projects. Currently, I'm focusing on refining my machine learning skills and expanding my portfolio with innovative full-stack ai-integrated applications.
+
+check out my latest projects - 
+
+Forkfolio - a food oriented social media web app - https://forkfolio-connect.vercel.app/
+
+TinyClip - a url shortner web app - https://tinyclip.onrender.com/
+(works a little slow needs maintenance)
 
 ## 🛠️ Tools
- <h3>👨‍💻 Programming and Markup Languages</h3>
+<div align=flex>
+ <h3>👨‍💻 Programming Languages</h3>
 
   <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+      <a>Javascript</a> 
+     &nbsp
+      <a>Python</a>
+     &nbsp
+      <a>Java</a>
+     &nbsp
+      <a>C++</a>
   </p>
 
   <h3>🧰 Frameworks</h3>
 
   <p>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a>React.js</a>
+      &nbsp
+      <a>Express</a>
+      &nbsp
+      <a>Django</a>
+      &nbsp
+      <a>Flask</a>
+      &nbsp
+      <a>Tailwind</a>
+  </p>
+
+  <h3>🐍 Libraries</h3>
+
+  <p>
+      <a>Seaborn</a>
+      &nbsp
+      <a>Tensorflow</a>
+      &nbsp
+      <a>Pandas</a>
+      &nbsp
+      <a>PyTorch</a>
   </p>
 
   <h3>🗄️ Databases and Hosting</h3>
 
   <p>
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a>MongoDB</a>
+       &nbsp
+      <a>PostgreSQL</a>
+       &nbsp
+      <a>Redis - aws</a>
+       &nbsp
+      <a>Render && Vercel && Hostinger</a>
   </p>
-
+</div>
   
 ## 📈 Stats and Activity
-<!--
-    <h3>🔥 Streak Stats</h3>
-      <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-      <p>
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ash's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=ash413&theme=monokai-metallian&hide_border=true"/>
-        </a>
-      </p> 
--->
+
 <div align="center">
       <h3>💻 GitHub Profile Stats</h3>
       <!-- https://github.com/anuraghazra/github-readme-stats -->
