@@ -51,19 +51,27 @@ TinyClip - a url shortner web app - https://tinyclip.onrender.com/
      &nbsp
       <a>Java</a>
      &nbsp
+      <a>Typescript</a>
+     &nbsp
       <a>C++</a>
   </p>
 
   <h3>🧰 Frameworks</h3>
 
   <p>
+      <a>Next.js</a>
+      &nbsp
       <a>React.js</a>
       &nbsp
       <a>Express</a>
       &nbsp
-      <a>Django</a>
+      <a>Fastapi</a>
       &nbsp
       <a>Flask</a>
+      &nbsp
+      <a>Node.js</a>
+      &nbsp
+      <a>Django</a>
       &nbsp
       <a>Tailwind</a>
   </p>
@@ -87,9 +95,21 @@ TinyClip - a url shortner web app - https://tinyclip.onrender.com/
        &nbsp
       <a>PostgreSQL</a>
        &nbsp
-      <a>Redis - aws</a>
+      <a>Firebase</a>
        &nbsp
-      <a>Render && Vercel && Hostinger</a>
+      <a>AWS (S3, EC2)</a>
+  </p>
+
+  <h3>⚒️ Tools</h3>
+
+  <p>
+      <a>Docker</a>
+       &nbsp
+      <a>Kubernetes</a>
+       &nbsp
+      <a>CI/CD (Jenkins, Github Actions)</a>
+       &nbsp
+      <a>Shell Scripting</a
   </p>
 </div>
   
